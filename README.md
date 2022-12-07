@@ -1,7 +1,8 @@
 # **Weather Widget**
 
 This is a simple weather widget that displays the current weather for a given location. It uses the **[weatherwidget.io](https://weatherwidget.io/)** API to retrieve weather data and display it in an easy-to-use widget.
-
+> **Example:**
+> https://weather-embed-pi.vercel.app
 ## **Prerequisites**
 
 To create your own weather widget, you will need:
